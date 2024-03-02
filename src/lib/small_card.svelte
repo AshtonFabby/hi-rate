@@ -5,14 +5,11 @@
 	 * @type {string}
 	 */
      export let cardTitle 
-    /**
-	 * @type {string}
-	 */
-     export let imageUrl
+    
 
 </script>
 
-<div class={`bg-[url('${imageUrl}')] px-10 py-14 col-span-1 row-span-1 text-white bg-cover bg-no-repeat rounded-3xl`}>
+<div class={`bg-[url('/images/small-card-1-bg.png')] px-10 py-14 col-span-1 row-span-1 text-white bg-cover bg-no-repeat rounded-3xl`}>
 <div>
     
     <h3 class="text-3xl">{cardTitle}</h3>
