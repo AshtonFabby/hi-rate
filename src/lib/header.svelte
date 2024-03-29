@@ -3,4 +3,5 @@
     <a href="/">Contribute</a>
     <a href="/">History</a>
     <a href="/">Contacts</a>
+    <a href="/login">Login</a>
 </nav>
